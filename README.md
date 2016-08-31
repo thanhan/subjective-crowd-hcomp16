@@ -1,5 +1,4 @@
-Source code for our paper 
-
+Source code for our paper
 Probabilistic Modeling for Crowdsourcing Partially-Subjective Ratings
 An T. Nguyen, Matthew Halpern, Byron C. Wallace and Matthew Lease
 AAAI HCOMP 2016

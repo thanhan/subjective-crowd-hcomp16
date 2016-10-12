@@ -17,4 +17,4 @@ AAAI HCOMP 2016
 ```
 
 The dataset is available at: http://github.com/Matthalp/mobile-cpu-user-sat-data.git
-For an example of the data format, see comments on learner.model
+

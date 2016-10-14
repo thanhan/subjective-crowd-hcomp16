@@ -5,7 +5,7 @@ Probabilistic Modeling for Crowdsourcing Partially-Subjective Ratings
 An T. Nguyen, Matthew Halpern, Byron C. Wallace and Matthew Lease
 AAAI HCOMP 2016
 ```
-
+https://www.ischool.utexas.edu/~ml/papers/nguyen-hcomp16.pdf
 
 ```
 @inproceedings{Nguyen16-hcomp,
